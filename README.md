@@ -6,7 +6,7 @@
 
 <p align="center">
 
-![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Warehouse-blue)
+![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Warehouse-blue) 
 ![AWS](https://img.shields.io/badge/AWS-S3-orange)
 ![Python](https://img.shields.io/badge/Python-Analytics-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Analysis-green)
