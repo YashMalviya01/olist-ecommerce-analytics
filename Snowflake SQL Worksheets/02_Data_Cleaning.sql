@@ -9,7 +9,7 @@ CREATE SCHEMA IF NOT EXISTS OLIST_DW.MART;
 -- =========================================================
 
 CREATE OR REPLACE TABLE OLIST_DW.MART.CLEAN_ORDERS AS
-SELECT
+SELECT 
     ORDER_ID,
     CUSTOMER_ID,
     ORDER_STATUS,
